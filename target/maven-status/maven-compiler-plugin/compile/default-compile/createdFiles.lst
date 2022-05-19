@@ -1,0 +1,11 @@
+com\jimenez\movilbackend\Movilbackend.class
+com\jimenez\movilbackend\dao\PersonRepository.class
+com\jimenez\movilbackend\dao\PhoneRepository.class
+com\jimenez\movilbackend\model\Direction.class
+com\jimenez\movilbackend\enums\EstadoCivil.class
+com\jimenez\movilbackend\enums\Sexo.class
+com\jimenez\movilbackend\model\Person.class
+com\jimenez\movilbackend\model\Phone.class
+com\jimenez\movilbackend\dao\EmailRepository.class
+com\jimenez\movilbackend\model\Email.class
+com\jimenez\movilbackend\dao\DirectionRepository.class
